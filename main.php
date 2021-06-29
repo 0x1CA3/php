@@ -55,6 +55,7 @@ function that we created above, it will executed the code
 stored in the function and we will have the text "Hello im 0x1CA3"
 printed to our screen
 */
+php_function_example();
 
 // Taking user input
 /*
