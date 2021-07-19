@@ -5,7 +5,7 @@ My writeup mostly containing and explaining everything you need to get started w
 My writeup teaches you about everything you need to get started, these are the topics you will be learning about:
 
 ```
-Concepts:
+Topics:
   - Print text to the screen
   - Getting the length of string
   - Reversing a string
