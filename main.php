@@ -10,8 +10,9 @@ This writeup will cover most of the PHP language and everything that you need to
 
 // You can make comments like this, with a double-slash
 
-/* You can make multi-line comments 
-   like this to make your life easier
+/* 
+You can make multi-line comments 
+like this to make your life easier
 */ 
 
 // NOTE: Statements in PHP must end with a semi-colon -> ;
