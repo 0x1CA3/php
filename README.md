@@ -1,6 +1,3 @@
-# PHP_Writeup
-My writeup mostly containing and explaining everything you need to get started with the PHP language.
-
 <h1 align="center">
 	<img src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" width="150px"><br>
     php - The language that my write-up in this repository is about.
