@@ -1,8 +1,24 @@
 # PHP_Writeup
 My writeup mostly containing and explaining everything you need to get started with the PHP language.
 
-# Description
-My writeup teaches you about everything you need to get started, these are the topics you will be learning about:
+<h1 align="center">
+	<img src="https://icons.veryicon.com/png/o/emoticon/number/duo-1.png" width="150px"><br>
+    php - The language that my write-up in this repository is about.
+</h1>
+<p align="center">
+	My writeup teaches you about everything you need to get started with the PHP language.
+</p>
+
+<p align="center">
+	<a href="https://deno.land" target="_blank">
+    	<img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version">
+     </a>
+	<a href="https://deno.land" target="_blank">
+    	<img src="https://img.shields.io/badge/Deno-1.0.0+-7DCDE3?style=for-the-badge" alt="Node">
+     </a>
+</p>
+
+## Topics
 
 ```
 Topics:
