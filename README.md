@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" width="150px"><br>
-    php - The language that my write-up in this repository is about.
+    php - The language you will be learning from this write-up!
 </h1>
 <p align="center">
 	My writeup teaches you about everything you need to get started with the PHP language.
