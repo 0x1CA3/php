@@ -34,7 +34,10 @@ Topics:
   - For loops
   - Arrays
   - Associative arrays
-  - Extra Stuff [Executing system commands, creating a cookie, creating a session variable, and more!]
+  - Executing system commands
+  - Creating cookies
+  - Creating session variables
+  - Extra Stuff
 ```
 
 ## Write-up
