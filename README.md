@@ -37,5 +37,9 @@ Topics:
   - Extra Stuff [Executing system commands, creating a cookie, creating a session variable, and more!]
 ```
 
-# Credits
-0x1CA3
+## Credits
+```
+https://github.com/0x1CA3
+```
+### Contributions 🎉
+###### All contributions are accepted, simply open an Issue / Pull request.
