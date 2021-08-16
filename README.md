@@ -3,7 +3,7 @@
     php - The language you will be learning from this write-up!
 </h1>
 <p align="center">
-	My writeup teaches you about everything you need to get started with the PHP language.
+	My write-up teaches you about everything you need to get started with the PHP language.
 </p>
 
 <p align="center">
